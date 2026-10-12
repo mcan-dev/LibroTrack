@@ -1,3 +1,9 @@
 venv/
 __pycache__/
+.pytest_cache/
 *.db
+*.log
+okuma_grafigi.png
+aylik_okuma_grafigi.png
+okunan_kitaplar.csv
+kapaklar/
